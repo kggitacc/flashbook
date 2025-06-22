@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkflashbook_docs=self.webpackChunkflashbook_docs||[]).push([[472],{5513:o=>{o.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/flashbook/blog/first-blog-post"},{"title":"Welcome","permalink":"/flashbook/blog/welcome"}]}')}}]);

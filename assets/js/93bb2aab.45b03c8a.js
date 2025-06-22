@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkflashbook_docs=self.webpackChunkflashbook_docs||[]).push([[261],{1613:o=>{o.exports=JSON.parse('{"permalink":"/flashbook/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://kggitacc.github.io/flashbook/blog</id>
+    <id>https://kggitacc.github.io/flashbook/flashbook/blog</id>
     <title>Flashbook Docs Blog</title>
     <updated>2025-06-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://kggitacc.github.io/flashbook/blog"/>
+    <link rel="alternate" href="https://kggitacc.github.io/flashbook/flashbook/blog"/>
     <subtitle>Flashbook Docs Blog</subtitle>
-    <icon>https://kggitacc.github.io/flashbook/img/favicon.ico</icon>
+    <icon>https://kggitacc.github.io/flashbook/flashbook/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
         <id>first-blog-post</id>
-        <link href="https://kggitacc.github.io/flashbook/blog/first-blog-post"/>
+        <link href="https://kggitacc.github.io/flashbook/flashbook/blog/first-blog-post"/>
         <updated>2025-06-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
         <author>
@@ -25,7 +25,7 @@
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
-        <link href="https://kggitacc.github.io/flashbook/blog/welcome"/>
+        <link href="https://kggitacc.github.io/flashbook/flashbook/blog/welcome"/>
         <updated>2025-06-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We'll be posting stuff here]]></summary>
         <author>

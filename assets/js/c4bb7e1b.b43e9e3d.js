@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkflashbook_docs=self.webpackChunkflashbook_docs||[]).push([[867],{2575:l=>{l.exports=JSON.parse('{"allTagsPath":"/flashbook/blog/tags","slug":"/flashbook/blog/tags/hello","name":"hello","count":1,"permalink":"/flashbook/blog/tags/hello"}')}}]);
