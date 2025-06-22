@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'Flashbook Docs',
   tagline: '',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://flashbook.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Flashbook', // Usually your GitHub org/user name.
+  projectName: 'flashbook', // Usually your repo name.
 
   presets: [
     [
