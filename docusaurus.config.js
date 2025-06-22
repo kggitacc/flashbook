@@ -69,7 +69,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/Intro to Flashbook.md',
+                to: '/docs/flashbook-intro',
               },
             ],
           },
@@ -86,7 +86,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'info@flashbook.ink',
-                href: 'info@flashbook.ink',
+                href: 'mailto:info@flashbook.ink',
               },
             ],
           },
