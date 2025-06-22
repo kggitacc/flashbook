@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'Flashbook Docs',
   tagline: '',
-  url: 'https://kggitacc.github.io/flashbook/',
+  url: 'https://kggitacc.github.io',
   baseUrl: '/flashbook/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
